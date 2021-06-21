@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataSetSqlServer\bin\Debug\ADO.NETDataSetSqlServer.exe.config
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataSetSqlServer\bin\Debug\ADO.NETDataSetSqlServer.exe
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataSetSqlServer\bin\Debug\ADO.NETDataSetSqlServer.pdb
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataSetSqlServer\obj\Debug\ADO.NETDataSetSqlServer.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataSetSqlServer\obj\Debug\ADO.NETDataSetSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataSetSqlServer\obj\Debug\ADO.NETDataSetSqlServer.exe
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataSetSqlServer\obj\Debug\ADO.NETDataSetSqlServer.pdb
